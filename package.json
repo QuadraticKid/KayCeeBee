@@ -1,0 +1,24 @@
+{
+  "name": "kayceebee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuadraticKid/KayCeeBee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuadraticKid/KayCeeBee/issues"
+  },
+  "homepage": "https://github.com/QuadraticKid/KayCeeBee#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "mineflayer": "^2.37.1",
+    "os": "^0.1.1"
+  }
+}
